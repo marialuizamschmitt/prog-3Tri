@@ -17,6 +17,7 @@ public class FuncionarioHorista extends Funcionario implements Pagamento {
     @Override
     public double processarPagamento() {
         return calcularSalario();
+    }
 }
 
 
