@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9549d660-8368-4a88-ae5a-740bb45ee185" name="Changes" comment="exercicios">
-      <change afterPath="$PROJECT_DIR$/src/Aula32/ExemploArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula32/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula32/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioHospital/Atendimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioHospital/Gerenciamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioHospital/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioHospital/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioHospital/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioHospital/SistemaConsulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hospital/Atendimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hospital/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hospital/SistemaConsulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9549d660-8368-4a88-ae5a-740bb45ee185" name="Changes" comment="Trabaho Hospital" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,13 +119,30 @@
       <option name="project" value="LOCAL" />
       <updated>1726233737967</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Trabaho Hospital">
+      <option name="closed" value="true" />
+      <created>1728435026691</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728435026691</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Trabaho Hospital">
+      <option name="closed" value="true" />
+      <created>1728435036621</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728435036621</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste commit" />
     <MESSAGE value="commit teste" />
     <MESSAGE value="exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios" />
+    <MESSAGE value="Trabaho Hospital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabaho Hospital" />
   </component>
 </project>
